@@ -72,4 +72,4 @@ This project shows that Machine Learning can be used to predict student performa
 ---
 
 ## 👨‍💻 Author
-- Name:Kiran Kumar M
+- Name:Rifnas Ahamed Kiyas Mohamed
